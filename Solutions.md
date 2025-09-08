@@ -1,7 +1,3 @@
-Awesome—here are ready-to-use, step-by-step **solutions with commands** for each assignment. I kept everything practical so students can run, capture screenshots, and submit.
-
----
-
 # BSC3PR10A – Linux/Windows Administrator Lab
 
 ## 📚 Google Classroom Assignments — Solutions, Commands & Steps
